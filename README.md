@@ -1,6 +1,6 @@
 # jays app
  my first repository in github desktop
-## this a sub heading
+## jay searching log 
 
 ### this is a sub sub heading 
 
