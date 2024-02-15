@@ -2,7 +2,7 @@
  my first repository in github desktop
 ## jay searching log 
 
-### this is a sub sub heading 
+### searching log of all recent searches and changes made ###
 
 **this is bold text**
 *this is italic text*
